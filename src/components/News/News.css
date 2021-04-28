@@ -1,0 +1,17 @@
+.New-layout{
+    min-height: 600px;
+    padding: 24px;
+    background: #fff;
+}
+.New-header{
+    padding: 10px;
+    height: 70px;
+}
+.Newh1{
+    font-size: 35px;
+    display: inline;
+}
+.NewError-Reason{
+    font-size: 40px;
+    vertical-align: center;
+}

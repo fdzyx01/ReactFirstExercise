@@ -1,0 +1,25 @@
+.Idiom-layout{
+    min-height: 700px;
+    padding: 24px;
+    background: #fff;
+}
+.Idiom-header{
+    padding: 10px;
+    height: 70px;
+}
+.Idiomh1{
+    font-size: 35px;
+    display: inline;
+}
+.IdiomError-Reason{
+    font-size: 40px;
+    vertical-align: center;
+}
+.IdiomSetRowP{
+    font-size: 25px;
+    text-align: center;
+}
+.IdiomSetRowP6{
+    font-size: 25px;
+    text-align: center;
+}

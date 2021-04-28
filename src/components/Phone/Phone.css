@@ -1,0 +1,51 @@
+.Phone-layout{
+    min-height: 700px;
+    padding: 24px;
+    background: #fff;
+}
+.Phone-header{
+    padding: 10px;
+    height: 70px;
+}
+.Phoneh1{
+    font-size: 35px;
+    display: inline;
+}
+.PhoError-Reason{
+    font-size: 40px;
+    vertical-align: center;
+}
+.mailTable{
+    width: 100%;
+    border-top: 1px solid #E6EAEE;
+    border-left: 1px solid #E6EAEE;
+    /* top: 80%; */
+    transform: translateY(50%);
+}
+.mailTable tr td{
+    width: 200px;
+    height: 55px;
+    line-height: 55px;
+    box-sizing: border-box;
+    padding: 0 10px;
+    border-bottom: 1px solid #E6EAEE;
+    border-right: 1px solid #E6EAEE;
+    font-size: 20px;
+}
+.mailTable tr td.column {
+    background-color: #EFF3F6;
+    color: #393C3E;
+    width: 30%;
+}
+
+.columnTop{
+    width: auto;
+    line-height: 55px;
+    height: 55px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #E6EAEE;
+    border-right: 1px solid #E6EAEE;
+    font-size: 30px;
+    text-align: center;
+}

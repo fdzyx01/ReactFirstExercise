@@ -1,0 +1,18 @@
+.SmallWindow-outer{
+    margin: 15px;
+    width: 150px;
+    height: 200px;
+    float: left;
+}
+.SmallWindowImg{
+    width: 150px;
+    height: 175px;
+}
+.SmallWindowA{
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    vertical-align: middle;
+    color: black;
+}

@@ -1,0 +1,25 @@
+.Weather-layout{
+    min-height: 600px;
+    padding: 24px;
+    background: #fff;
+}
+.Weather-header{
+    padding: 10px;
+    height: 70px;
+    /* background-color: blueviolet; */
+}
+.Weatherh1{
+    font-size: 35px;
+    display: inline;
+}
+.weaError-Reason{
+    font-size: 40px;
+    vertical-align: center;
+}
+.WeaRightHeader{
+    height: 70px;
+}
+.WeaRightTop{
+    font-size: 40px;
+    display: inline;
+}
